@@ -1,0 +1,27 @@
+{
+  "name": "github-packages-user-test",
+  "version": "1.0.0",
+  "description": "This repo will test using other packages created by other users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ed-at-logicaldox/github-packages-user-test.git"
+  },
+  "keywords": [
+    "github",
+    "packages",
+    "npm"
+  ],
+  "author": "Edward J. Apostol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ed-at-logicaldox/github-packages-user-test/issues"
+  },
+  "homepage": "https://github.com/ed-at-logicaldox/github-packages-user-test#readme",
+  "dependencies": {
+    "@eapostol/github-packages-test": "1.0.0"
+  }
+}
